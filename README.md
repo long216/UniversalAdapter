@@ -1,0 +1,2 @@
+# UniversalAdapter
+RecyclerView通用的万能的适配器
